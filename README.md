@@ -1,5 +1,6 @@
 **Credit Card Detection - Exploratory Data Analysis (EDA)
 Table of Contents**
+
 Introduction
 
 Dataset
